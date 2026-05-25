@@ -1,24 +1,4 @@
-body {
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-}
-EOFcat > assets/css/style.css << 'EOF'
-body {
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-}
-EOFcat > assets/css/style.css << 'EOF'
-body {
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-}
-EOFcat > assets/css/style.css << 'EOF'
-body {
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-}
-EOFcat > assets/css/style.css << 'EOF'
-body {
+p {
   font-family: Arial, sans-serif;
   font-size: 14px;
 }
