@@ -1,7 +1,7 @@
-header { background-color: blue; }
-nav { background-color: orange; }
-main { background-color: lightgray; }
-section { background-color: yellow; }
-article { background-color: green; }
-aside { background-color: purple; }
-footer { background-color: #2c3e50; }
+header { background-color: blue; padding: 10px; }
+nav { background-color: orange; padding: 10px; }
+main { background-color: lightgray; padding: 10px; }
+section { background-color: yellow; padding: 10px; }
+article { background-color: green; padding: 10px; }
+aside { background-color: purple; padding: 10px; }
+footer { background-color: #2c3e50; padding: 10px; }
